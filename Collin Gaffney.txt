@@ -1,0 +1,7 @@
+Collin (I think that's your name, I couldn't tell base on your username), I like how your class library is simple and neat in your code.
+Your comments on each constructor(s) are organized; however, there isn't a comment of your name. I need to learn how to do that for 
+future projects.
+
+Overall, your class library is fanstatic because of showing of how to get information and reading it, for example on line 12
+"String stateName {get; set}" and including parameters on line 44 with their variable type and name. I wasn't able to test your program but,
+I would bet that it ran smoothly.
